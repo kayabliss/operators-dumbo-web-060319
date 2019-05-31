@@ -7,6 +7,7 @@ else
   end
 end
 
+unsafe?()
 
 
 def not_safe?(speed)
